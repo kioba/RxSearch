@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">RxSearch</string>
+  <string name="main_search_hint">Search</string>
+</resources>
